@@ -1,7 +1,7 @@
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I am Deepak. Nice to meet you.
 
 <img src="https://github.com/deepakpixel/deepakpixel/blob/master/Github_Profile_Bannerv2.gif?raw=true" alt="Profile banner Deepak Jangra Software Developer Web Developer"> 
-I'm Deepak Jangra, Software Developer and a terrible cook. My interest lies in web development, teaching code and learning musical instruments.
+I'm Deepak Jangra, Software Developer and a terrible cook. My interest lies in web development, teaching code and music.
 
 
 ## More About Me:computer:
@@ -23,21 +23,15 @@ I'm Deepak Jangra, Software Developer and a terrible cook. My interest lies in w
 ## Find me around the WWW🌎
 
 <p align="center">
-  
-  
-- GitHub <a href="https://github.com/deepakpixel">
+  <a href="https://github.com/deepakpixel">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
   </a>
-
-
-- Twitter : <a href="http://twitter.com/deepakpixel">
+  <a href="http://twitter.com/deepakpixel">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter badge" />
   </a>
-
-- LinkedIn : <a href="http://linkedin.com/in/deepakjangraa">
+  <a href="http://linkedin.com/in/deepakjangraa">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin badge" />
   </a>
-
 </p>
 
 ## <h3 align="left">GitHub Stats</h3>
