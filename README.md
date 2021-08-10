@@ -1,6 +1,6 @@
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I am Deepak. Nice to meet you.
 
-<img src="https://github.com/deepakpixel/deepakpixel/blob/master/Github_Profile_Bannerv1.gif?raw=true" alt="Profile banner Deepak Jangra Software Developer Web Developer"> 
+<img src="https://github.com/deepakpixel/deepakpixel/blob/master/Github_Profile_Bannerv2.gif?raw=true" alt="Profile banner Deepak Jangra Software Developer Web Developer"> 
 I'm Deepak Jangra, Software Developer and a terrible cook. My interest lies in web development, teaching code and learning musical instruments.
 
 
