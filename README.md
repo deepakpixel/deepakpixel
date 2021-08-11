@@ -12,7 +12,7 @@
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
   <img align="left" alt="Deepak's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-
+<br />
 <br />
 
 <img src="https://github.com/deepakpixel/deepakpixel/blob/master/Github_Profile_Bannerv4.gif?raw=true" alt="Profile banner Deepak Jangra Software Developer Web Developer"> 
