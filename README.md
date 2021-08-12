@@ -16,7 +16,7 @@
 <br />
 
 <img src="https://github.com/deepakpixel/deepakpixel/blob/master/Github_Profile_Bannerv4.gif?raw=true" alt="Profile banner Deepak Jangra Software Developer Web Developer"> 
-I'm Deepak Jangra, Software Developer and a terrible cook. My interest lies in web development, teaching code and music.
+I'm Deepak Jangra, Software Developer and a terrible cook. My interest lies in web development, teaching code and music. Oh! Did I tell you I am an electrical engineer. That's shocking ⚡ I know ;). What I don't know is how an induction motor starts.
 
 
 
@@ -29,9 +29,9 @@ I'm Deepak Jangra, Software Developer and a terrible cook. My interest lies in w
 
 😐 Trying to get used to python
 
-FUN FACT: When not debugging you will see me reading books, playing guitar.
+When not debugging you will see me reading books 📖 or playing guitar 🎸.
 
->*I love to race in where angels fear to tread. Committed to face fears & overcome them. In order to escape any feeling of being stuck, i often travel.*
+>*Free advice: Pause debugger, take a 5-min break and continue. You will feel the change*
 
 
 ## My Skills 🚀
