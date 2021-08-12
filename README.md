@@ -1,17 +1,15 @@
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I am Deepak. Nice to meet you.
 
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Deepak's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://deepakjangra.com">
+  <img align="left" alt="Deepak's Discord" width="22px" src="https://raw.githubusercontent.com/deepakpixel/deepakpixel/master/website.svg" />
 </a>
 <a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Deepak Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Deepak's Twitter" width="22px" src="https://raw.githubusercontent.com/deepakpixel/deepakpixel/master/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Deepak's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Deepak's LinkedIN" width="22px" src="https://raw.githubusercontent.com/deepakpixel/deepakpixel/master/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Deepak's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+
 <br />
 <br />
 
