@@ -23,7 +23,7 @@ I'm Deepak Jangra, Software Developer and a terrible cook. My interest lies in w
 
 ## More About Me:computer:
 
-🚀 Building **<a href="https://jeecarnot.com" target="_blank">JEECarnot</a>**. JEECarnot is a mentorship platform for JEE aspirants.
+🚀 Building **<a href="https://jeecarnot.com">JEECarnot</a>**. JEECarnot is a mentorship platform for JEE aspirants.
 
 ♥ In love with Javascript
 
