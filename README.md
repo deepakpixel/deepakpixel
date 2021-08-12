@@ -29,6 +29,8 @@ I'm Deepak Jangra, Software Developer and a terrible cook. My interest lies in w
 
 😐 Trying to get used to python
 
+🐞 Debugging with JS, React, Node and 22 others
+
 When not debugging you will see me reading books 📖 or playing guitar 🎸.
 
 >*Free advice: Pause debugger, take a 5-min break and continue. You will feel the change*
