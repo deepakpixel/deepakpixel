@@ -13,7 +13,6 @@
 <br />
 <br />
 
-<img src="https://github.com/deepakpixel/deepakpixel/blob/master/Github_Profile_Bannerv4.gif?raw=true" alt="Profile banner Deepak Jangra Software Developer Web Developer"> 
 I'm Deepak Jangra, Software Developer and a terrible guitar player. My interest lies in web development, teaching code and music. 
 
 ## More About Me:computer:
