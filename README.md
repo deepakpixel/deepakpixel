@@ -15,10 +15,6 @@
 
 <img src="https://github.com/deepakpixel/deepakpixel/blob/master/Github_Profile_Bannerv4.gif?raw=true" alt="Profile banner Deepak Jangra Software Developer Web Developer"> 
 I'm Deepak Jangra, Software Developer and a terrible guitar player. My interest lies in web development, teaching code and music. 
-Fun fact : I am an electrical engineer and I don't know how an induction motor starts.
-
-
-
 
 ## More About Me:computer:
 
