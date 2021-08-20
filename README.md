@@ -1,20 +1,21 @@
-# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I am Deepak. Nice to meet you.
+# Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I am Deepak.
 
 <a href="https://deepakjangra.com">
   <img align="left" alt="Deepak's Discord" width="22px" src="https://raw.githubusercontent.com/deepakpixel/deepakpixel/master/website.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
+<a href="https://twitter.com/deepakpixel">
   <img align="left" alt="Deepak's Twitter" width="22px" src="https://raw.githubusercontent.com/deepakpixel/deepakpixel/master/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Deepak's LinkedIN" width="22px" src="https://raw.githubusercontent.com/deepakpixel/deepakpixel/master/linkedin.svg" />
+<a href="https://www.linkedin.com/in/deepakjangraa/">
+  <img align="left" alt="Deepak's Linkedin" width="22px" src="https://raw.githubusercontent.com/deepakpixel/deepakpixel/master/linkedin.svg" />
 </a>
 
 <br />
 <br />
 
 <img src="https://github.com/deepakpixel/deepakpixel/blob/master/Github_Profile_Bannerv4.gif?raw=true" alt="Profile banner Deepak Jangra Software Developer Web Developer"> 
-I'm Deepak Jangra, Software Developer and a terrible cook. My interest lies in web development, teaching code and music. Oh! Did I tell you I am an electrical engineer. That's shocking ⚡ I know ;). What I don't know is how an induction motor starts.
+I'm Deepak Jangra, Software Developer and a terrible guitar player. My interest lies in web development, teaching code and music. 
+Fun fact : I am an electrical engineer and I don't know how an induction motor starts.
 
 
 
@@ -25,14 +26,11 @@ I'm Deepak Jangra, Software Developer and a terrible cook. My interest lies in w
 
 ♥ In love with Javascript
 
-😐 Trying to get used to python
+😐 Trying to get used to Python
 
 🐞 Debugging with JS, React, Node and 22 others
 
 When not debugging you will see me reading books 📖 or playing guitar 🎸.
-
->*Free advice: Pause debugger, take a 5-min break and continue. You will feel the change*
-
 
 ## My Skills 🚀
 
@@ -50,6 +48,4 @@ When not debugging you will see me reading books 📖 or playing guitar 🎸.
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="GIT" />
 </p>
 
-## <h3 align="left">GitHub Stats</h3>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakpixel&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+>*Free advice: Pause debugger, take a 5-min break and continue. You will feel the change*
