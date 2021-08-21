@@ -17,7 +17,7 @@ I'm Deepak Jangra, Software Developer and a terrible guitar player. My interest 
 
 ## More About Me:computer:
 
-🚀 Building **<a href="https://jeecarnot.com">JEECarnot</a>**. JEECarnot is a mentorship platform for JEE aspirants.
+🚀 Building **<a href="https://jeecarnot.com">JEECarnot</a>**, a mentorship platform for JEE aspirants.
 
 ♥ In love with Javascript
 
